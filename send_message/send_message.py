@@ -5,7 +5,7 @@ from datetime import timedelta
 from datetime import datetime
 import openai
 
-token = '6464394089:AAFfCKVcvoEuMYLZuIDeNKpRP_mdiEg0XB8'
+token = 'xxx'
 openai.api_key = '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'
 chat_id = '586530904'
 url = f'https://api.telegram.org/bot6464394089:AAFfCKVcvoEuMYLZuIDeNKpRP_mdiEg0XB8/sendMessage?chat_id={chat_id}'
