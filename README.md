@@ -52,3 +52,4 @@ Criar um sistema preditivo para todas as lojas da rede, de forma que a informaç
 * Melhorar o entendimento com novas features, 
 * Buscar com os envolvidos no processo informações sobre Markdown
 ## 12.0 Estágio Atual do Projeto
+![](img/project_status.jpg)
