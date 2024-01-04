@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu diretório. Esta página é somente um relatório do projeto, para acessar as análises na íntegra clique na pasta "notebooks" e em seguida no arquivo "notebook.ipynb" :smiley:
 # BuyMore Company
 ## Sales Forecast
-![](img/capa.jpg)
+![](img/capa_readme.jpg)
 ## 1.0 Contexto
 A rede de supermercados BuyMore está com uma necessidade de atualizar seus sistemas preditivos, e a forma com que compartilha informações relevantes com seus stackholders. O time de negócios entendeu que há demanda na empresa por melhorar sua capacidade de PREDITIBILIDADE, ou seja, melhorar a forma com que faz predições, e melhorar a forma com que COMPARTILHA suas INFORMAÇÕES, com o uso de dashboards compartilháveis e com segurança de dados e um sistema de ENVIOS DE NOTIFICAÇÕES para o smartphone de todos os envolvidos no processo. Inicialmente no setor financeiro, mais especificamente um preditor de demanda. Uma empresa tercerizada foi contratada para fazer a entrega de um produto de dados desenvolvido sob demanda para solucionar o problema de negócios descrito.
 ## 2.0 Tools and Requirements
