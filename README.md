@@ -5,12 +5,12 @@
 ## 1.0 Contexto
 A rede de supermercados BuyMore está com uma necessidade de atualizar seus sistemas preditivos, e a forma com que compartilha informações relevantes com seus stackholders. O time de negócios entendeu que há demanda na empresa por melhorar sua capacidade de PREDITIBILIDADE, ou seja, melhorar a forma com que faz predições, e melhorar a forma com que COMPARTILHA suas INFORMAÇÕES, com o uso de dashboards compartilháveis e com segurança de dados e um sistema de ENVIOS DE NOTIFICAÇÕES para o smartphone de todos os envolvidos no processo. Inicialmente no setor financeiro, mais especificamente um preditor de demanda. Uma empresa tercerizada foi contratada para fazer a entrega de um produto de dados desenvolvido sob demanda para solucionar o problema de negócios descrito.
 ## 2.0 Tools and Requirements
-Linguagem de desenvolvimento - Python
-Banco de Dados - Postgres
-Servidor - Linux Server 22.04 local
-Container - Docker
-Workflow - Airflow
-Demais bibliotecas disponívels em "requirements.txt" no diretório raíz do projeto
+### Linguagem de desenvolvimento - Python
+### Banco de Dados - Postgres
+### Servidor - Linux Server 22.04 local
+### Container - Docker
+### Workflow - Airflow
+### Demais bibliotecas disponívels em "requirements.txt" no diretório raíz do projeto
 ## 3.0 Business Assumptions
 A granularidade original dos dados segue a seguinte orientação: DEPERTAMENTOS -> LOJAS -> DATAS. Foi assumido um posicionamento de trabalhar sem a separação de DEPARTAMENTOS, por motivo de redução de complexidade, os departamentos foram mantidos no dataset e utilizados para visualizações em dashboards somente portanto a granularidade segue no projeto como sendo: LOJAS -> DATAS.
 ## 4.0 Estratégia da Solução
